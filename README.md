@@ -29,3 +29,8 @@ console.log(a.length);
 9) What happens to the XHR Request which is made and before receiving the response browser is closed.
 
 10)Explain Closures
+
+
+How do you will implement garbage collection for JS in browser?"
+And "what is dependency injecton?", "what for its used?".
+Also you can get some questions about how frameworks works under hood. For example, "What is AngularJS digest?"
