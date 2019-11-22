@@ -17,14 +17,15 @@ console.log(a.length);
 5) What happens if you invoke a constructor, but forget to add keyword 'new' before it? 
 
 6) How many times can we call 'then' on the same promise? What will happen in this code:
-var a = callServer();
-a.then(...);
-a.then(...);
-
-What happens if we call 'then' on a promise that was already resolved before? 
+   var a = callServer();
+   a.then(...);
+   a.then(...);
+   What happens if we call 'then' on a promise that was already resolved before? 
 
 7) What is a clojure? Most people know the practical aspects, but have a probelm explaining it, so here it is best just to ask for code sample. 
 
 8) ES5 and ES6 basics, prototypes , OOP, web architecture, JS Asynchrony and so on.
+
 9) What happens to the XHR Request which is made and before receiving the response browser is closed.
+
 10)Explain Closures
