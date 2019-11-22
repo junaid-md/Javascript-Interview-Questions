@@ -30,7 +30,8 @@ console.log(a.length);
 
 10)Explain Closures
 
+11) How do you will implement garbage collection for JS in browser?
 
-How do you will implement garbage collection for JS in browser?"
-And "what is dependency injecton?", "what for its used?".
-Also you can get some questions about how frameworks works under hood. For example, "What is AngularJS digest?"
+12) What is dependency injecton?, What for its used?
+
+23) Also you can get some questions about how frameworks works under hood. For example, "What is AngularJS digest?"
