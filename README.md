@@ -28,7 +28,7 @@ console.log(a.length);
 
 9) What happens to the XHR Request which is made and before receiving the response browser is closed.
 
-10)Explain Closures
+10) Explain Closures
 
 11) How do you will implement garbage collection for JS in browser?
 
