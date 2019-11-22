@@ -24,3 +24,5 @@ a.then(...);
 What happens if we call 'then' on a promise that was already resolved before? 
 
 7.) What is a clojure? Most people know the practical aspects, but have a probelm explaining it, so here it is best just to ask for code sample. 
+
+8.) ES5 and ES6 basics, prototypes , OOP, web architecture, JS Asynchrony and so on.
